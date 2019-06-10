@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
+import { SalesSectionComponent } from './sales-section/sales-section.component';
+import { OrdersSectionComponent } from './orders-section/orders-section.component';
+import { HealthSectionComponent } from './health-section/health-section.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    SidebarComponent
+    SidebarComponent,
+    SalesSectionComponent,
+    OrdersSectionComponent,
+    HealthSectionComponent
   ],
   imports: [
     BrowserModule,
