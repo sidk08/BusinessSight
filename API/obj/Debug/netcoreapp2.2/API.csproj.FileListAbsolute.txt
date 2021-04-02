@@ -1,0 +1,14 @@
+E:\Web Design\BusinessSight\API\bin\Debug\netcoreapp2.2\API.deps.json
+E:\Web Design\BusinessSight\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+E:\Web Design\BusinessSight\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+E:\Web Design\BusinessSight\API\bin\Debug\netcoreapp2.2\API.dll
+E:\Web Design\BusinessSight\API\bin\Debug\netcoreapp2.2\API.pdb
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.dll
+E:\Web Design\BusinessSight\API\obj\Debug\netcoreapp2.2\API.pdb
