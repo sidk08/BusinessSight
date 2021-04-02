@@ -1,27 +1,20 @@
 # BusinessSight
 
+Business intelligence dashboard created using Angular 7 and .netcore 2.2. The project aims to provide user with an overview of three types of data Orders data, Sales data and System Health.  
+The data projected on the front end has been sourced and generated at backend from .netcore app. The frontend uses Angular 7 to fetch and display data in visually enriched format based on TypeScript/HTML/CSS.  
+Utilized Charts.js to create the data visualizations.
+### Screenshots  
+
+##### Sales Page
+
+![Sales page](/Images/SalesPage.jpg)
+
+##### Orders Page
+
+![Sales page](/Images/OrdersPage.jpg)
+
+##### System Health Page
+
+![Sales page](/Images/SystemHealth.jpg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
